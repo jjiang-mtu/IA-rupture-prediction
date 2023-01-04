@@ -6,7 +6,7 @@
 From an internal database, patient-specific IA models were created from medical imaging data (DICOM images of 3D rotational angiographies) acquired from three sources: the University of Michigan, Changhai Hospital (Shanghai), and the Aneurisk open-source repository (http://ecm2.mathcs.emory.edu/aneuriskweb/index).  
 
 ### Machine Learning (ML) Algorithms
-Six selected ML algorithms include multivariate logistic regression (LR), multiple layer perceptron neural network (MLPNN), support vector machine (SVM), random forest (RF), extreme gradient boosting (XGBoost), and Bayesian additive regressions trees (BART).
+Six selected ML algorithms include multivariate logistic regression (LR), multiple layer perceptron neural network (MLPNN), support vector machine (SVM), random forest (RF), extreme gradient boosting (XGBoost), and Bayesian additive regressions trees (BART). Python codes of BART can be downloaded from https://github.com/JakeColtman/bartpy. 
 
 ### Global and Local Model-agnostic Methods
 Permutation feature importance, local interpretable model-agnostic explanations (LIME), and SHapley Additive exPlanations (SHAP) algorithms are adopted to explain and analyze each ML method, respectively. 
