@@ -26,6 +26,6 @@ $ python test_LIME_SHAP.py
 ## Cite
 If you find our code useful for your research, please cite our paper:
 
-N. Mu, M. Rezaeitaleshmahalleh, Z. Lyu, M. Wang, J. Tang, C. M. Strother, J.J. Gemmete, A.S. Pandey, and J. Jiang, "Can We Explain Machine Learning-based Prediction for Rupture Status Assessments of Intracranial Aneurysm?", Biomedical Physics & Engineering Express
+N. Mu, M. Rezaeitaleshmahalleh, Z. Lyu, M. Wang, J. Tang, C. M. Strother, J.J. Gemmete, A.S. Pandey, and J. Jiang, "Can We Explain Machine Learning-based Prediction for Rupture Status Assessments of Intracranial Aneurysm?", Biomedical Physics & Engineering Express, under review, 2023. 
 
 In case of any questions, please contact the corresponding author J. Jiang at jjiang1@mtu.edu
